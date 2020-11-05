@@ -4,3 +4,10 @@ C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-53 XML References\LISTING 4-
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-53 XML References\LISTING 4-53 XML References\obj\Debug\LISTING 4-53 XML References.csproj.CoreCompileInputs.cache
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-53 XML References\LISTING 4-53 XML References\obj\Debug\LISTING 4-53 XML References.exe
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-53 XML References\LISTING 4-53 XML References\obj\Debug\LISTING 4-53 XML References.pdb
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-53 XML References\LISTING 4-53 XML References\bin\Debug\LISTING 4-53 XML References.exe.config
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-53 XML References\LISTING 4-53 XML References\bin\Debug\LISTING 4-53 XML References.exe
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-53 XML References\LISTING 4-53 XML References\bin\Debug\LISTING 4-53 XML References.pdb
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-53 XML References\LISTING 4-53 XML References\obj\Debug\LISTING 4-53 XML References.csprojAssemblyReference.cache
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-53 XML References\LISTING 4-53 XML References\obj\Debug\LISTING 4-53 XML References.csproj.CoreCompileInputs.cache
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-53 XML References\LISTING 4-53 XML References\obj\Debug\LISTING 4-53 XML References.exe
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-53 XML References\LISTING 4-53 XML References\obj\Debug\LISTING 4-53 XML References.pdb

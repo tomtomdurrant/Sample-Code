@@ -5,3 +5,10 @@ C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-44 Filter XML with LINQ\LIST
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-44 Filter XML with LINQ\LISTING 4-44 Filter XML with LINQ\obj\Debug\LISTING 4-44 Filter XML with LINQ.csproj.CoreCompileInputs.cache
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-44 Filter XML with LINQ\LISTING 4-44 Filter XML with LINQ\obj\Debug\LISTING 4-44 Filter XML with LINQ.exe
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-44 Filter XML with LINQ\LISTING 4-44 Filter XML with LINQ\obj\Debug\LISTING 4-44 Filter XML with LINQ.pdb
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-44 Filter XML with LINQ\LISTING 4-44 Filter XML with LINQ\bin\Debug\LISTING 4-44 Filter XML with LINQ.exe.config
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-44 Filter XML with LINQ\LISTING 4-44 Filter XML with LINQ\bin\Debug\LISTING 4-44 Filter XML with LINQ.exe
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-44 Filter XML with LINQ\LISTING 4-44 Filter XML with LINQ\bin\Debug\LISTING 4-44 Filter XML with LINQ.pdb
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-44 Filter XML with LINQ\LISTING 4-44 Filter XML with LINQ\obj\Debug\LISTING 4-44 Filter XML with LINQ.csprojAssemblyReference.cache
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-44 Filter XML with LINQ\LISTING 4-44 Filter XML with LINQ\obj\Debug\LISTING 4-44 Filter XML with LINQ.csproj.CoreCompileInputs.cache
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-44 Filter XML with LINQ\LISTING 4-44 Filter XML with LINQ\obj\Debug\LISTING 4-44 Filter XML with LINQ.exe
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-44 Filter XML with LINQ\LISTING 4-44 Filter XML with LINQ\obj\Debug\LISTING 4-44 Filter XML with LINQ.pdb

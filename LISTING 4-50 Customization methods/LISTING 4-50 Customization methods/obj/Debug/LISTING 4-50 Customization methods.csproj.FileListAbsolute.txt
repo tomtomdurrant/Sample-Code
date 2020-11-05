@@ -5,3 +5,9 @@ C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-50 Customization methods\LIS
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-50 Customization methods\LISTING 4-50 Customization methods\obj\Debug\LISTING 4-50 Customization methods.csproj.CoreCompileInputs.cache
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-50 Customization methods\LISTING 4-50 Customization methods\obj\Debug\LISTING 4-50 Customization methods.exe
 C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-50 Customization methods\LISTING 4-50 Customization methods\obj\Debug\LISTING 4-50 Customization methods.pdb
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-50 Customization methods\LISTING 4-50 Customization methods\bin\Debug\LISTING 4-50 Customization methods.exe.config
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-50 Customization methods\LISTING 4-50 Customization methods\bin\Debug\LISTING 4-50 Customization methods.exe
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-50 Customization methods\LISTING 4-50 Customization methods\bin\Debug\LISTING 4-50 Customization methods.pdb
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-50 Customization methods\LISTING 4-50 Customization methods\obj\Debug\LISTING 4-50 Customization methods.csproj.CoreCompileInputs.cache
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-50 Customization methods\LISTING 4-50 Customization methods\obj\Debug\LISTING 4-50 Customization methods.exe
+C:\dev\learning\c-sharp\Sample-Code\LISTING 4-50 Customization methods\LISTING 4-50 Customization methods\obj\Debug\LISTING 4-50 Customization methods.pdb
